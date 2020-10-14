@@ -613,6 +613,21 @@
 	audio = "sound/radio_station/bill_movie.ogg"
 	name_of_thing = "some shitty movie"
 
+/obj/item/radio_tape/advertisement/pope_crunch
+	name = "compact tape - 'Pope Crunch'"
+	audio = "sound/radio_station/pope_crunch_cereal.ogg"
+	name_of_thing = "Pope Crunch Cereal"
+	desc = {"A small audio tape. Though, it looks to big to fit in an audio log.<br>
+	The music is Smooth Talker by Apoxode (CC BY 3.0)"}
+
+/obj/item/radio_tape/advertisement/cloning_psa
+	name = "compact tape - 'Cloning PSA'"
+	audio = "sound/radio_station/cloning_psa.ogg"
+	name_of_thing = "Cloning Public Service Announcement"
+	desc = {"A small audio tape. Though, it looks to big to fit in an audio log.<br>
+	Voiceover by Cenith of the Black Pants Legion<br>
+	Musical backing is "Inspretional Wave" by khalafnasirs 2020 (CC-NO 3.0)"}
+
 /obj/item/radio_tape/audio_book
 	audio_type = "Audio book"
 
