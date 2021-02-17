@@ -54329,7 +54329,7 @@
 /obj/machinery/atmospherics/pipe/simple{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/researcg{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access = null;

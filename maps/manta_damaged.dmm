@@ -18491,7 +18491,7 @@
 /turf/simulated/floor/white,
 /area/station/science/chemistry)
 "aOJ" = (
-/obj/machinery/door/airlock/pyro/researcg{
+h{
 	req_access = null
 	},
 /obj/firedoor_spawn,
