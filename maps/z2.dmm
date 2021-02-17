@@ -52628,7 +52628,7 @@
 /turf/unsimulated/floor/black,
 /area/owlery/office)
 "cBi" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 8
 	},
 /obj/access_spawn/owlcommand,
@@ -69475,7 +69475,7 @@
 /turf/unsimulated/floor/shuttle,
 /area/shuttle/escape/centcom/manta)
 "dnb" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /turf/unsimulated/floor/shuttle{
 	icon_state = "floor3"
 	},
@@ -69935,7 +69935,7 @@
 	},
 /area/shuttle/escape/centcom/sealab)
 "doA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "First-Aid Station";
 	opacity = 0
@@ -70702,7 +70702,7 @@
 	},
 /area/shuttle/escape/centcom/cogmap2)
 "dqL" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "First-Aid Station";
 	opacity = 0
@@ -70754,7 +70754,7 @@
 	},
 /area/shuttle/escape/centcom/donut2)
 "dqR" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "First-Aid Station";
 	opacity = 0
@@ -71538,7 +71538,7 @@
 	},
 /area/centcom/lounge)
 "dtb" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "First-Aid Station"
 	},
 /turf/unsimulated/floor/shuttle{
@@ -81174,7 +81174,7 @@
 	},
 /area/shuttle/escape/centcom/cogmap)
 "dQY" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "First-Aid Station"
 	},
 /turf/unsimulated/floor/shuttle{
@@ -84064,7 +84064,7 @@
 	},
 /area/shuttle/escape/centcom/donut3)
 "krJ" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /turf/unsimulated/floor/shuttle,
 /area/shuttle/escape/centcom/donut3)
 "kvr" = (

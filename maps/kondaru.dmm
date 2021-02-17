@@ -21963,7 +21963,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -24819,7 +24819,7 @@
 /area/station/maintenance/west)
 "biq" = (
 /obj/disposalpipe/segment/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical Dock Access"
 	},
@@ -25470,7 +25470,7 @@
 /area/station/medical/medbay/surgery)
 "bjK" = (
 /obj/disposalpipe/segment/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Operating Theatre"
 	},
@@ -28610,7 +28610,7 @@
 /turf/simulated/floor/plating,
 /area/station/medical/medbay/treatment1)
 "brA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Treatment Room One"
 	},
 /obj/access_spawn/medical,
@@ -28630,7 +28630,7 @@
 /turf/simulated/floor/plating,
 /area/station/medical/medbay/treatment2)
 "brD" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Treatment Room Two"
 	},
 /obj/access_spawn/medical,
@@ -31615,7 +31615,7 @@
 /area/station/maintenance/southwest)
 "byQ" = (
 /obj/disposalpipe/segment/vertical,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue"
 	},
 /obj/access_spawn/morgue,
@@ -36225,7 +36225,7 @@
 /obj/grille/catwalk{
 	dir = 9
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Sector";
 	req_access = null
@@ -36262,7 +36262,7 @@
 	dir = 5
 	},
 /obj/disposalpipe/segment/mail/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Sector";
 	req_access = null
@@ -38568,7 +38568,7 @@
 /turf/simulated/floor/white/grime,
 /area/station/hangar/science)
 "bOd" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Dock Access";
 	req_access = null
@@ -38609,7 +38609,7 @@
 /turf/simulated/floor/white/grime,
 /area/station/maintenance/southwest)
 "bOg" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Dock Access";
 	req_access = null
@@ -43444,7 +43444,7 @@
 	},
 /area/station/maintenance/southeast)
 "bYD" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Robotics";
 	req_access = null
 	},
@@ -43788,7 +43788,7 @@
 /turf/space,
 /area/station/ai_monitored/armory)
 "bZu" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Toxin Lab Access";
 	req_access = null
 	},
@@ -44994,7 +44994,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/crew_quarters/catering)
 "ccb" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Toxin Lab Access";
 	req_access = null
 	},
@@ -45025,7 +45025,7 @@
 /turf/simulated/floor/sanitary/white,
 /area/station/medical/morgue)
 "ccd" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Toxin Chamber";
 	req_access = null
 	},
@@ -46172,7 +46172,7 @@
 /turf/simulated/floor/plating,
 /area/station/hangar/medical)
 "cez" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical Dock Access"
 	},
@@ -46361,7 +46361,7 @@
 /turf/simulated/floor/white,
 /area/station/science/lab)
 "ceV" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Toxin Lab";
 	req_access = null
@@ -46895,7 +46895,7 @@
 /area/station/hangar/medical)
 "cgg" = (
 /obj/disposalpipe/segment/vertical,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue"
 	},
 /obj/access_spawn/morgue,
@@ -48098,7 +48098,7 @@
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "cjs" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_locked";
 	locked = 1
 	},
@@ -48245,7 +48245,7 @@
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "cjK" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/cable{
@@ -48279,7 +48279,7 @@
 /turf/simulated/floor/white,
 /area/research_outpost/indigo_rye)
 "cjP" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/caution/westeast,
@@ -48379,11 +48379,11 @@
 /turf/simulated/floor/airless/plating,
 /area/listeningpost)
 "ckd" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "cke" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -48533,7 +48533,7 @@
 /turf/simulated/floor/sanitary,
 /area/research_outpost/indigo_rye)
 "ckx" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/sanitary,
@@ -48619,7 +48619,7 @@
 	},
 /area/research_outpost/indigo_rye)
 "ckI" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/blackwhite{
@@ -49745,7 +49745,7 @@
 /turf/simulated/floor/red,
 /area/station/security/checkpoint/customs)
 "cnt" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Toxin Storage";
 	req_access = null
@@ -56932,7 +56932,7 @@
 /turf/simulated/floor/carpet/blue/fancy/edge/east,
 /area/station/bridge)
 "qYI" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Robotics";
 	req_access = null
 	},

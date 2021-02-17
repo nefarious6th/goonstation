@@ -8360,7 +8360,7 @@
 /turf/simulated/floor/white,
 /area/station/medical/medbay)
 "atJ" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -13058,7 +13058,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Storage"
 	},
 /obj/cable{
@@ -13891,7 +13891,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -14647,7 +14647,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Artifact Lounge"
 	},
 /obj/access_spawn/research,
@@ -14662,7 +14662,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Chemistry"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -15867,7 +15867,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -18124,7 +18124,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/storage)
 "aQe" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Toxins"
 	},
 /obj/access_spawn/tox_storage,
@@ -23441,7 +23441,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Toxins"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -30282,7 +30282,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -41717,7 +41717,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Meat Zone";
 	req_access = list(28)
 	},

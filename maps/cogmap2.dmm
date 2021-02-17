@@ -5906,7 +5906,7 @@
 /turf/simulated/floor/plating/scorched,
 /area/station/maintenance/north)
 "amR" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Crematorium";
 	req_access_txt = "27"
@@ -6552,7 +6552,7 @@
 	dir = 8;
 	level = 2
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Meat Locker";
 	req_access_txt = "28"
@@ -8048,7 +8048,7 @@
 /area/station/crew_quarters/catering)
 "asa" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Meat Locker";
 	req_access_txt = "28"
 	},
@@ -14789,7 +14789,7 @@
 	},
 /area/shuttle/arrival/station)
 "aHk" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	opacity = 0;
 	req_access_txt = ""
@@ -56486,7 +56486,7 @@
 	},
 /area/station/medical/robotics)
 "csf" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Robotics Storage";
 	req_access_txt = "29"
@@ -56958,7 +56958,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Science Teleporter";
 	req_access_txt = "8"
@@ -58209,7 +58209,7 @@
 	name = "Test Chamber Shield";
 	opacity = 0
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access_txt = "7"
 	},
@@ -60956,7 +60956,7 @@
 	name = "Test Chamber Shield";
 	opacity = 0
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access_txt = "7"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -62163,7 +62163,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Toxin Lab";
 	req_access_txt = "7"
@@ -62271,7 +62271,7 @@
 /obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Sector";
 	req_access_txt = "24"
@@ -63625,7 +63625,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/morgue)
 "cIk" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue";
 	req_access_txt = "6"
 	},
@@ -65883,7 +65883,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Chemistry Lab";
 	req_access_txt = "33"
@@ -66735,7 +66735,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "6"
@@ -66790,7 +66790,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "6"
@@ -71272,7 +71272,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Artifact Lab";
 	req_access_txt = "24"
@@ -72802,7 +72802,7 @@
 	},
 /area/station/medical/cdc)
 "dbR" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Genetic Research";
 	req_access_txt = "9"
 	},
@@ -73304,7 +73304,7 @@
 	},
 /area/station/medical/medbay)
 "dcR" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Pathology Research"
 	},
@@ -73389,7 +73389,7 @@
 	},
 /area/station/medical/cdc)
 "dcY" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Pathology Research"
 	},
@@ -75932,7 +75932,7 @@
 	},
 /area/research_outpost)
 "diF" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Test Chamber Observation";
 	req_access_txt = "24"
@@ -76000,7 +76000,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Test Chamber Observation";
 	req_access_txt = "24"
@@ -76226,7 +76226,7 @@
 /turf/simulated/floor/engine,
 /area/research_outpost)
 "djl" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access_txt = "7"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -77239,7 +77239,7 @@
 	},
 /area/research_outpost)
 "dlF" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access_txt = "7"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -77430,7 +77430,7 @@
 	},
 /area/research_outpost)
 "dma" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Outpost Dorms";
 	req_access_txt = "24"
@@ -77489,7 +77489,7 @@
 /turf/simulated/floor/wood,
 /area/research_outpost)
 "dmg" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Outpost Dorms";
 	req_access_txt = "24"

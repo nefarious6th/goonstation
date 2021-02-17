@@ -643,7 +643,7 @@
 /area/station/bridge)
 "abf" = (
 /obj/item/device/radio/intercom/AI{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
@@ -696,7 +696,7 @@
 /area/station/hallway/starboardupperhallway)
 "abo" = (
 /obj/item/device/radio/intercom/brig{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
@@ -729,19 +729,19 @@
 /area/station/security/porttorpedoes)
 "abt" = (
 /obj/item/device/radio/intercom/medical{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
 "abu" = (
 /obj/item/device/radio/intercom/engineering{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
 "abv" = (
 /obj/item/device/radio/intercom/science{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
@@ -2877,7 +2877,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/diner/hangar)
 "ahA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/access_spawn/medical_director,
@@ -3207,7 +3207,7 @@
 	icon_state = "chair-b"
 	},
 /obj/item/device/radio/intercom/science{
-	
+
 	},
 /obj/machinery/camera{
 	c_tag = "autotag";
@@ -4421,7 +4421,7 @@
 /area/listeningpost/syndicateassaultvessel)
 "alv" = (
 /obj/item/device/radio/intercom/catering{
-	
+
 	},
 /turf/simulated/floor/darkblue,
 /area/station/bridge)
@@ -5120,7 +5120,7 @@
 /turf/simulated/floor/carpet/red/fancy/edge/east,
 /area/listeningpost/syndicateassaultvessel)
 "anf" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical";
 	req_access = null;
@@ -6179,7 +6179,7 @@
 	d1 = 4;
 	d2 = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -6571,7 +6571,7 @@
 /area/station/medical/medbay/lobby)
 "apN" = (
 /obj/item/device/radio/intercom/security{
-	
+
 	},
 /turf/simulated/floor/damaged1,
 /area/station/bridge)
@@ -7023,7 +7023,7 @@
 /area/station/science/artifact)
 "aqB" = (
 /obj/item/device/radio/intercom/cargo{
-	
+
 	},
 /turf/simulated/floor/damaged4,
 /area/station/bridge)
@@ -7390,7 +7390,7 @@
 	icon_state = "pipe-c"
 	},
 /obj/item/device/radio/intercom/science{
-	
+
 	},
 /obj/item/paper/book/medical_guide,
 /obj/access_spawn/research,
@@ -8930,7 +8930,7 @@
 /obj/disposalpipe/segment,
 /obj/machinery/shieldgenerator/energy_shield,
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /turf/simulated/floor/bot,
 /area/station/engine/storage)
@@ -9409,7 +9409,7 @@
 "awi" = (
 /obj/machinery/fluid_canister,
 /obj/item/device/radio/intercom/loudspeaker/speaker/north{
-	
+
 	},
 /turf/simulated/floor/bot,
 /area/station/engine/storage)
@@ -10607,7 +10607,7 @@
 /area/station/engine/engineering/breakroom)
 "ayF" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/north{
-	
+
 	},
 /obj/machinery/portable_atmospherics/canister/air/large,
 /obj/machinery/camera{
@@ -11325,7 +11325,7 @@
 /area/station/crew_quarters/quarters)
 "aAb" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /obj/cable{
 	icon_state = "4-8";
@@ -11771,7 +11771,7 @@
 	icon_state = "4-8"
 	},
 /obj/item/device/radio/intercom/loudspeaker/speaker/north{
-	
+
 	},
 /turf/simulated/floor,
 /area/station/engine/power)
@@ -12124,7 +12124,7 @@
 	icon_state = "4-8"
 	},
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /turf/simulated/floor,
 /area/station/engine/gas)
@@ -12301,7 +12301,7 @@
 /area/station/turret_protected/ai_upload_foyer)
 "aBY" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/north{
-	
+
 	},
 /obj/machinery/guardbot_dock,
 /obj/cable{
@@ -18491,7 +18491,7 @@
 /turf/simulated/floor/white,
 /area/station/science/chemistry)
 "aOJ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/researcg{
 	req_access = null
 	},
 /obj/firedoor_spawn,
@@ -18501,7 +18501,7 @@
 	},
 /area/station/crew_quarters/hor/horprivate)
 "aOK" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/firedoor_spawn,
 /obj/access_spawn/research,
 /obj/disposalpipe/segment/mail,
@@ -20171,7 +20171,7 @@
 	d2 = 4
 	},
 /obj/item/device/radio/intercom/security{
-	
+
 	},
 /obj/machinery/light/incandescent/warm{
 	dir = 1;
@@ -23618,7 +23618,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/robotics)
 "aYW" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/robotics,
 /obj/cable{
 	icon_state = "1-2";
@@ -23849,7 +23849,7 @@
 /turf/simulated/floor/damaged4,
 /area/station/security/secoffquarters)
 "aZu" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2";
@@ -24316,7 +24316,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/morgue)
 "bar" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/access_spawn/medlab,
 /turf/simulated/floor/sanitary,
@@ -24903,7 +24903,7 @@
 /turf/simulated/floor/carpet/grime,
 /area/station/chapel/office)
 "bbN" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -25707,7 +25707,7 @@
 	},
 /area/station/medical/medbay/cloner)
 "bdp" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/disposalpipe/segment/morgue{
@@ -25792,7 +25792,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "bdv" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/access_spawn/medical,
@@ -26742,7 +26742,7 @@
 /obj/table/wood/auto,
 /obj/item/storage/bible,
 /obj/item/device/radio/intercom{
-	
+
 	},
 /turf/simulated/floor/carpet{
 	icon_state = "purple1"
@@ -27479,7 +27479,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/medbay/lobby)
 "bgE" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2";
@@ -28467,7 +28467,7 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay/lobby)
 "biy" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2";
@@ -36767,7 +36767,7 @@
 	},
 /area/station/science/chemistry)
 "bzn" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -37583,7 +37583,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/bot_storage)
 "bAQ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -38336,7 +38336,7 @@
 /turf/simulated/floor/damaged2,
 /area/station/hydroponics/bay)
 "bCw" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -38379,7 +38379,7 @@
 /turf/simulated/floor/orange,
 /area/station/medical/cdc)
 "bCz" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -38806,7 +38806,7 @@
 /turf/simulated/floor/plating/random,
 /area/station/hangar/port)
 "bDu" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -38867,7 +38867,7 @@
 /turf/simulated/floor/scorched2,
 /area/station/hydroponics/bay)
 "bDA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -38933,7 +38933,7 @@
 /turf/simulated/floor/damaged5,
 /area/station/hydroponics/bay)
 "bDH" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -40548,7 +40548,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/artifact)
 "bHt" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -40572,7 +40572,7 @@
 /turf/simulated/floor/plating,
 /area/station/science/restroom)
 "bHx" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -40591,7 +40591,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/testchamber)
 "bHA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -41262,7 +41262,7 @@
 	nostick = 1
 	},
 /obj/item/device/radio/intercom/science{
-	
+
 	},
 /obj/disposalpipe/segment/mail{
 	dir = 4;
@@ -42009,7 +42009,7 @@
 "bKV" = (
 /obj/landmark/artifact,
 /obj/item/device/radio/intercom/science{
-	
+
 	},
 /turf/simulated/floor,
 /area/station/science/artifact)
@@ -46501,7 +46501,7 @@
 /area/station/engine/engineering/breakroom)
 "bVm" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /turf/simulated/floor/damaged5,
 /area/station/engine/storage)
@@ -46539,7 +46539,7 @@
 	dir = 4
 	},
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /turf/simulated/floor/damaged5,
 /area/station/engine/inner)
@@ -46626,7 +46626,7 @@
 /area/station/engine/inner)
 "bVB" = (
 /obj/item/device/radio/intercom/loudspeaker/speaker/south{
-	
+
 	},
 /turf/simulated/floor/damaged2,
 /area/station/engine/monitoring)

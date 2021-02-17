@@ -2702,7 +2702,7 @@
 /turf/simulated/floor/plating,
 /area/diner/hangar)
 "ahA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/access_spawn/medical_director,
@@ -4674,7 +4674,7 @@
 /turf/simulated/floor/carpet/red/fancy/edge/east,
 /area/listeningpost/syndicateassaultvessel)
 "anf" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical";
 	req_access = null;
@@ -5664,7 +5664,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -16951,7 +16951,7 @@
 /turf/simulated/floor/white,
 /area/station/science/chemistry)
 "aOJ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/firedoor_spawn,
@@ -21334,7 +21334,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/robotics)
 "aYW" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/robotics,
 /obj/cable{
 	icon_state = "1-2"
@@ -21545,7 +21545,7 @@
 	},
 /area/station/medical/research)
 "aZu" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2"
@@ -21974,7 +21974,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/morgue)
 "bar" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/access_spawn/medlab,
 /turf/simulated/floor/sanitary,
@@ -22548,7 +22548,7 @@
 /turf/simulated/floor/carpet/grime,
 /area/station/chapel/office)
 "bbN" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -23294,7 +23294,7 @@
 	},
 /area/station/medical/medbay/cloner)
 "bdp" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/disposalpipe/segment/morgue{
@@ -23363,7 +23363,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "bdv" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/access_spawn/medical,
@@ -24906,7 +24906,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/medbay/lobby)
 "bgE" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2"
@@ -25807,7 +25807,7 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay/lobby)
 "biy" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/access_spawn/medical,
 /obj/cable{
 	icon_state = "1-2"
@@ -30019,7 +30019,7 @@
 /turf/simulated/floor,
 /area/station/hallway/starboardlowerhallway)
 "brn" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -33235,7 +33235,7 @@
 	},
 /area/station/science/chemistry)
 "bzn" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -33935,7 +33935,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/bot_storage)
 "bAQ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -34682,7 +34682,7 @@
 /turf/simulated/floor/purple,
 /area/station/science/lobby)
 "bCw" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -34719,7 +34719,7 @@
 /turf/simulated/floor/orange,
 /area/station/medical/cdc)
 "bCz" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -35114,7 +35114,7 @@
 /turf/simulated/floor/plating/random,
 /area/station/hangar/port)
 "bDu" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -35173,7 +35173,7 @@
 /turf/simulated/floor/plating,
 /area/station/science/teleporter)
 "bDA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -35211,7 +35211,7 @@
 /turf/simulated/floor/plating,
 /area/station/science/chemistry)
 "bDH" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -36435,7 +36435,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/artifact)
 "bHt" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access = null
 	},
 /obj/cable{
@@ -36457,7 +36457,7 @@
 /turf/simulated/floor/plating,
 /area/station/science/restroom)
 "bHx" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -36476,7 +36476,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/testchamber)
 "bHA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	req_access = null
 	},
@@ -43536,7 +43536,7 @@
 /turf/simulated/floor/shuttlebay,
 /area/diner/hangar)
 "pnh" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/firedoor_spawn,
 /obj/access_spawn/research,
 /obj/disposalpipe/segment/mail,

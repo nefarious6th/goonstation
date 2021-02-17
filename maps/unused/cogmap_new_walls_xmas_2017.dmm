@@ -45574,7 +45574,7 @@
 	icon_state = "1-2"
 	},
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Teleporter Control Room";
 	req_access_txt = "8"
 	},
@@ -50306,7 +50306,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Mixing Room";
 	req_access_txt = "8"
@@ -50335,7 +50335,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Mixing Room";
 	req_access_txt = "8"
@@ -53198,7 +53198,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Artifact Lab";
 	req_access_txt = "8"
@@ -56541,7 +56541,7 @@
 	},
 /area/station/hangar/science)
 "clO" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Science Hangar";
 	req_access_txt = "8"
@@ -56822,7 +56822,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "29"
@@ -57090,7 +57090,7 @@
 /turf/simulated/floor/plating,
 /area/station/hallway/primary/east)
 "cna" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Test Chamber Access";
 	req_access_txt = "33"
 	},
@@ -57118,7 +57118,7 @@
 /area/station/science/chemistry)
 "cnf" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry Department Access";
 	req_access_txt = "33"
 	},
@@ -57636,7 +57636,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/hangar/science)
 "coc" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Science Hangar";
 	req_access_txt = "8"
 	},
@@ -58655,7 +58655,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -59342,7 +59342,7 @@
 /obj/machinery/atmospherics/pipe/simple{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -60232,7 +60232,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -60417,7 +60417,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Test Chamber Access";
 	req_access_txt = "33"
@@ -60482,7 +60482,7 @@
 /obj/machinery/door/firedoor/pyro{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Loading Dock";
 	req_access_txt = "33"

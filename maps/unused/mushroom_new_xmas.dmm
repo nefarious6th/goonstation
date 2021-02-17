@@ -14428,7 +14428,7 @@
 	d2 = 2
 	},
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry Department Access";
 	req_access_txt = "33"
 	},
@@ -16005,7 +16005,7 @@
 	d1 = 4;
 	d2 = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Artifact Lab";
 	req_access_txt = "8"
@@ -19403,7 +19403,7 @@
 	d1 = 4;
 	d2 = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Mixing Room";
 	req_access_txt = "8"

@@ -3395,7 +3395,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/lab)
 "hB" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Gas Storage";
 	req_access = null
 	},
@@ -4513,7 +4513,7 @@
 /turf/simulated/floor/grass,
 /area/station/chapel/sanctuary)
 "jE" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "CMDS - Research Block";
 	req_access = null
@@ -4685,7 +4685,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Toxins Lab";
 	req_access = null
 	},
@@ -4756,7 +4756,7 @@
 	},
 /area/station/chapel/sanctuary)
 "ka" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "CMDS - Medical Sector";
 	req_access = null
@@ -4967,7 +4967,7 @@
 /obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research Sector";
 	req_access = null
@@ -5060,7 +5060,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Telescience";
 	req_access = null
 	},
@@ -5071,7 +5071,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/science/chemistry)
 "kJ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry";
 	req_access = null
 	},
@@ -5087,7 +5087,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Artifact Research";
 	req_access = null
 	},
@@ -5685,7 +5685,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Medical Research";
 	req_access = null
 	},
@@ -6000,7 +6000,7 @@
 	icon_state = "1-2"
 	},
 /obj/disposalpipe/segment,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Operating Theater";
 	req_access = null
 	},
@@ -6092,7 +6092,7 @@
 /turf/simulated/floor/white,
 /area/station/medical/medbay/surgery)
 "mJ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Cryogenics";
 	req_access = null
 	},
@@ -6203,7 +6203,7 @@
 /obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Operating Theater";
 	req_access = null
@@ -6227,7 +6227,7 @@
 /obj/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Pathology";
 	req_access = null
@@ -6402,7 +6402,7 @@
 /area/station/medical/medbay)
 "no" = (
 /obj/disposalpipe/segment,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Medbay";
 	req_access = null
 	},

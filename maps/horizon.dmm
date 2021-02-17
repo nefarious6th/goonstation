@@ -8438,7 +8438,7 @@
 /turf/simulated/floor/specialroom/freezer/blue,
 /area/station/medical/morgue)
 "avc" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -9379,7 +9379,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Storage"
 	},
 /obj/cable{
@@ -9831,7 +9831,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -14871,7 +14871,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -15461,7 +15461,7 @@
 	},
 /area/station/science/testchamber)
 "aLz" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	opacity = 0
 	},
@@ -15877,7 +15877,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -42101,7 +42101,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Meat Zone";
 	req_access = list(28)
 	},
@@ -57466,7 +57466,7 @@
 	name = "Artifact Lounge"
 	})
 "czy" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_locked";
 	locked = 1;
 	name = "Restricted"

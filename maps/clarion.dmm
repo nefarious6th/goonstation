@@ -1151,7 +1151,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P01"
 	},
@@ -1439,7 +1439,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters S01"
 	},
@@ -1778,7 +1778,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters M01"
 	},
@@ -2412,7 +2412,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P02"
 	},
@@ -3128,7 +3128,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters M02"
 	},
@@ -3352,7 +3352,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P03"
 	},
@@ -3629,7 +3629,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters S02"
 	},
@@ -4336,7 +4336,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P04"
 	},
@@ -4449,7 +4449,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters M03"
 	},
@@ -5262,7 +5262,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P05"
 	},
@@ -5520,7 +5520,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters S03"
 	},
@@ -5797,7 +5797,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters M04"
 	},
@@ -6266,7 +6266,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P06"
 	},
@@ -6448,7 +6448,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters S04"
 	},
@@ -7259,7 +7259,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters P07"
 	},
@@ -7441,7 +7441,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Crew Quarters S05"
 	},
@@ -19896,7 +19896,7 @@
 /turf/simulated/floor/wood,
 /area/station/crew_quarters/fitness)
 "aKQ" = (
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	name = "Treatment Room Two"
 	},
 /obj/firedoor_spawn,
@@ -19921,7 +19921,7 @@
 /turf/simulated/floor/plating,
 /area/station/hallway/primary/central)
 "aKS" = (
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	name = "Treatment Room One"
 	},
 /obj/firedoor_spawn,
@@ -28827,7 +28827,7 @@
 	},
 /area/station/medical/cdc)
 "baa" = (
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	name = "Operating Theater"
 	},
 /obj/firedoor_spawn,
@@ -29194,7 +29194,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	name = "Blood Storage"
 	},
 /obj/access_spawn/medical,
@@ -35721,7 +35721,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	dir = 4;
 	name = "Medbay"
 	},
@@ -36779,7 +36779,7 @@
 	},
 /area/station/medical/medbay/cloner)
 "bny" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	id = "Cloning_Door";
 	name = "Cloning"
@@ -37139,7 +37139,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	dir = 4;
 	name = "Robotics"
 	},
@@ -39391,7 +39391,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	color = null;
 	name = "Morgue"
 	},
@@ -41869,7 +41869,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt2{
+/obj/machinery/door/airlock/pyro/medical{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -47996,7 +47996,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/maintenance/southwest)
 "bIv" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Genetics"
 	},
 /obj/firedoor_spawn,

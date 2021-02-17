@@ -1353,7 +1353,7 @@
 	icon_state = "1-2"
 	},
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Teleporter Control Room";
 	req_access_txt = "8"
 	},
@@ -3089,7 +3089,7 @@
 	icon_state = "1-2"
 	},
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry Department Access";
 	req_access_txt = "33"
 	},
@@ -3180,7 +3180,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Teleporter Control Room";
 	req_access_txt = "8"
 	},
@@ -3768,7 +3768,7 @@
 	icon_state = "4-8"
 	},
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Mixing Room";
 	req_access_txt = "8"
@@ -3985,7 +3985,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/artifact)
 "aiV" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	name = "Artifact Lab";
 	req_access_txt = "8"
@@ -19506,7 +19506,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -19793,7 +19793,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -19857,7 +19857,7 @@
 	dir = 4;
 	name = "crematorium pipe"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -20160,7 +20160,7 @@
 	dir = 4;
 	name = "crematorium pipe"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	req_access_txt = "5"
@@ -31016,7 +31016,7 @@
 "bnF" = (
 /obj/disposalpipe/segment/mail,
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Meat Locker";
 	req_access_txt = null
 	},

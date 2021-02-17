@@ -4633,7 +4633,7 @@
 	},
 /area/station/security/hos)
 "aXr" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/decal/mule/dropoff,
@@ -13001,7 +13001,7 @@
 /turf/simulated/wall/auto/reinforced/jen/yellow,
 /area/station/quartermaster/office)
 "duU" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/decal/mule/dropoff,
 /obj/firedoor_spawn,
 /obj/access_spawn/medical,
@@ -15194,7 +15194,7 @@
 /turf/simulated/floor/black/grime,
 /area/station/hangar/qm)
 "edf" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/decal/mule/dropoff,
@@ -19081,7 +19081,7 @@
 	name = "Funeral Parlor"
 	})
 "fmj" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 8
 	},
 /obj/access_spawn/medlab,
@@ -31374,7 +31374,7 @@
 /turf/simulated/pool/no_animate,
 /area/station/crew_quarters/pool)
 "iVK" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/access_spawn/medical,
 /obj/access_spawn/maint,
 /obj/decal/garland,
@@ -50434,7 +50434,7 @@
 /turf/simulated/floor/wood/two,
 /area/station/hallway/primary/west)
 "oHI" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/access_spawn/research,
 /obj/firedoor_spawn,
 /obj/decal/mule/dropoff,
@@ -53910,7 +53910,7 @@
 /turf/simulated/floor/carpet/arcade/half,
 /area/station/crew_quarters/arcade/dungeon)
 "pGl" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 8;
 	id = "cloning_exit"
 	},
@@ -59846,7 +59846,7 @@
 /turf/simulated/floor/plating,
 /area/station/mining/staff_room)
 "rlP" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/access_spawn/medical,
 /obj/access_spawn/maint,
 /obj/decal/garland{
@@ -59861,7 +59861,7 @@
 /turf/simulated/floor/purpleblack,
 /area/station/science/lobby)
 "rmr" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/access_spawn/medical,
@@ -77538,7 +77538,7 @@
 /turf/simulated/floor/plating,
 /area/station/engine/engineering/breakroom)
 "wut" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/decal/mule/dropoff,

@@ -9331,7 +9331,7 @@
 /turf/simulated/floor/sanitary/white,
 /area/station/medical/morgue)
 "sV" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -9839,7 +9839,7 @@
 	name = "Genetic Research"
 	})
 "tU" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue"
 	},
 /obj/access_spawn/morgue,
@@ -14556,7 +14556,7 @@
 	name = "Demeter Solar Array"
 	})
 "CG" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_locked";
 	locked = 1
 	},
@@ -17740,7 +17740,7 @@
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "IF" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/cable{
@@ -18687,7 +18687,7 @@
 /turf/simulated/floor/white,
 /area/research_outpost/indigo_rye)
 "KS" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/caution/westeast,
@@ -18781,11 +18781,11 @@
 	},
 /area/research_outpost/indigo_rye)
 "Lf" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "Lg" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -18927,7 +18927,7 @@
 /turf/simulated/floor/sanitary,
 /area/research_outpost/indigo_rye)
 "Ly" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/sanitary,
@@ -19005,7 +19005,7 @@
 	},
 /area/research_outpost/indigo_rye)
 "LI" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/blackwhite{

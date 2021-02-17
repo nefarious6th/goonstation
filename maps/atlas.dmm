@@ -11541,7 +11541,7 @@
 	},
 /area/station/medical/research)
 "Ch" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Genetics"
 	},
@@ -13718,7 +13718,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "HD" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Medbay"
 	},
 /obj/access_spawn/medical,
@@ -14248,7 +14248,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/science/storage)
 "IQ" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Toxin Storage"
 	},
 /obj/cable{
@@ -14449,7 +14449,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/medical/cdc)
 "Jz" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Pathology"
 	},
 /obj/access_spawn/medical,
@@ -14658,7 +14658,7 @@
 	},
 /area/station/medical/cdc)
 "JY" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Pathology"
 	},
@@ -16802,7 +16802,7 @@
 /turf/simulated/floor/black,
 /area/station/medical/robotics)
 "PC" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/access_spawn/robotics,

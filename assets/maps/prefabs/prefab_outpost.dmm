@@ -65,7 +65,7 @@
 "bm" = (/obj/iv_stand,/obj/item/reagent_containers/iv_drip,/obj/machinery/light/incandescent/cool/very,/turf/simulated/floor/redwhite{icon_state = "redwhite"; dir = 6},/area/mining/miningoutpost)
 "bn" = (/obj/wingrille_spawn/auto,/obj/decal/poster/wallsign/medbay,/turf/simulated/floor/plating,/area/mining/miningoutpost)
 "bo" = (/obj/lattice{icon_state = "lattice-dir-b"; dir = 5},/obj/machinery/light/runway_light/delay5,/turf/space,/area/noGenerate)
-"bp" = (/obj/machinery/door/airlock/pyro/medical,/turf/simulated/floor/red,/area/mining/miningoutpost)
+"bp" = (/obj/machinery/door/airlock/pyro/research,/turf/simulated/floor/red,/area/mining/miningoutpost)
 "bq" = (/obj/decal/cleanable/cobweb,/obj/storage/secure/closet/engineering/mining,/turf/simulated/floor/orangeblack,/area/mining/miningoutpost)
 "br" = (/turf/simulated/floor/stairs{icon_state = "Stairs_alone"; dir = 8},/area/mining/miningoutpost)
 "bs" = (/turf/simulated/floor/arrival{icon_state = "arrival"; dir = 8},/area/mining/miningoutpost)

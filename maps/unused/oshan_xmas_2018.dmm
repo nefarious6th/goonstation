@@ -4115,7 +4115,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "ain" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Morgue";
 	icon_state = "research2_closed";
 	dir = 8;
@@ -4126,7 +4126,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "aio" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Morgue";
 	req_access_txt = "29"
 	},
@@ -4548,7 +4548,7 @@
 	},
 /area/station/medical/medbay)
 "ajj" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Medbay Restroom"
 	},
 /obj/access_spawn/medical,
@@ -5479,7 +5479,7 @@
 	},
 /area/station/medical/dome)
 "alo" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	icon_state = "research2_closed";
 	name = "Operating Theater";

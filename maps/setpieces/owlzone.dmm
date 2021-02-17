@@ -2288,7 +2288,7 @@
 /turf/unsimulated/floor/white,
 /area/owlery/office)
 "fB" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_closed";
 	dir = 8
 	},
@@ -2833,7 +2833,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_closed";
 	dir = 8
 	},

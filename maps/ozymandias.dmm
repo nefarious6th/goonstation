@@ -4566,7 +4566,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/inner/ne)
 "bsT" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -5416,7 +5416,7 @@
 /turf/space,
 /area/space)
 "bFp" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/firedoor_spawn,
 /turf/simulated/floor/grey,
 /area/station/medical/staff)
@@ -13486,7 +13486,7 @@
 	name = "Research Director's Office"
 	})
 "dXE" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -16697,7 +16697,7 @@
 /turf/simulated/floor,
 /area/station/hangar/main)
 "eUO" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -16796,7 +16796,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Robotics";
 	req_access = null
@@ -21370,7 +21370,7 @@
 /turf/simulated/floor/grime,
 /area/station/storage/warehouse)
 "gpF" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -23021,7 +23021,7 @@
 /turf/simulated/wall/auto/supernorn,
 /area/station/hallway/primary/east)
 "gLP" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Robotics";
 	req_access = null
@@ -23264,7 +23264,7 @@
 	icon_state = "1-2"
 	},
 /obj/disposalpipe/segment/vertical,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -23564,7 +23564,7 @@
 	},
 /area/station/mining/staff_room)
 "gTz" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/cable{
 	icon_state = "1-2"
 	},
@@ -27746,7 +27746,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Robotics";
 	req_access = null
 	},
@@ -28042,7 +28042,7 @@
 	},
 /area/station/maintenance/solar/south)
 "iiB" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /obj/cable{
 	icon_state = "1-2"
 	},
@@ -28370,7 +28370,7 @@
 /turf/simulated/floor/engine/caution/south,
 /area/station/engine/core)
 "ioa" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -30256,7 +30256,7 @@
 /turf/simulated/floor,
 /area/station/crew_quarters/market)
 "iOY" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -30898,7 +30898,7 @@
 /obj/cable{
 	icon_state = "2-9"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -42516,7 +42516,7 @@
 /turf/simulated/floor/red,
 /area/station/science/lab)
 "mlF" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	opacity = 0;
 	req_access_txt = ""
@@ -44871,7 +44871,7 @@
 /area/station/science/lab)
 "mTK" = (
 /obj/machinery/atmospherics/pipe/simple/insulated/cold/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research";
 	req_access = null
@@ -44998,7 +44998,7 @@
 /area/station/maintenance/west)
 "mVO" = (
 /obj/machinery/atmospherics/pipe/simple/insulated/cold/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research";
 	req_access = null
@@ -51368,7 +51368,7 @@
 	icon_state = "4-8"
 	},
 /obj/disposalpipe/segment/mail/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Robotics";
 	req_access = null
@@ -55725,7 +55725,7 @@
 /turf/simulated/floor/airless/plating,
 /area/space)
 "qcm" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{
@@ -57533,7 +57533,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -57858,7 +57858,7 @@
 /obj/cable{
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -60913,7 +60913,7 @@
 /turf/simulated/floor/plating,
 /area/station/medical/head)
 "rzH" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Geneticists";
 	req_access = null
 	},
@@ -68665,7 +68665,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/south)
 "tyU" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue";
 	req_access = null
 	},
@@ -70057,7 +70057,7 @@
 	icon_state = "1-2"
 	},
 /obj/disposalpipe/segment/vertical,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Research";
 	req_access = null
 	},
@@ -76192,7 +76192,7 @@
 	icon_state = "4-8"
 	},
 /obj/disposalpipe/segment/horizontal,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Research";
 	req_access = null
@@ -76309,7 +76309,7 @@
 	},
 /area/station/engine/engineering)
 "vzE" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/firedoor_spawn,
@@ -81708,7 +81708,7 @@
 /turf/simulated/floor/grey,
 /area/station/mining/staff_room)
 "wRA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4
 	},
 /obj/cable{

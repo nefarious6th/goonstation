@@ -3654,7 +3654,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "ain" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 8;
 	name = "Morgue";
 	req_access_txt = "29"
@@ -3664,7 +3664,7 @@
 /turf/simulated/floor/sanitary,
 /area/station/medical/morgue)
 "aio" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Morgue";
 	req_access_txt = "29"
 	},
@@ -4911,7 +4911,7 @@
 	},
 /area/station/medical/dome)
 "alo" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Operating Theater";
 	req_access_txt = "29"
@@ -13258,7 +13258,7 @@
 "aEU" = (
 /obj/access_spawn/medical,
 /obj/firedoor_spawn,
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 8
 	},
 /turf/simulated/floor/black,

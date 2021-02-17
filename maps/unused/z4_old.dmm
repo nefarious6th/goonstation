@@ -2681,7 +2681,7 @@
 	},
 /area/shuttle/escape/centcom/cogmap2)
 "hI" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	opacity = 0
 	},

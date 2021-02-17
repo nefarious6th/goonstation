@@ -19307,7 +19307,7 @@
 /turf/simulated/floor/plating/random,
 /area/station2/maintenance/east)
 "aRE" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Medbay"
 	},
@@ -19469,7 +19469,7 @@
 /turf/simulated/floor/plating,
 /area/station2/maintenance/NEmaint)
 "aRR" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Genetics"
 	},
@@ -20235,7 +20235,7 @@
 /turf/simulated/wall/auto/supernorn/the_tuff_stuff,
 /area/station2/science/storage)
 "aTF" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Toxin Storage"
 	},
 /obj/cable{
@@ -21696,7 +21696,7 @@
 /turf/simulated/wall/auto/supernorn/the_tuff_stuff,
 /area/station2/medical/cdc)
 "aXy" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Pathology"
 	},
 /obj/access_spawn/medical,
@@ -21921,7 +21921,7 @@
 	},
 /area/station2/medical/cdc)
 "aYc" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Pathology"
 	},
@@ -22612,7 +22612,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station2/medical/cdc)
 "aZS" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/access_spawn/robotics,
@@ -24928,7 +24928,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -26025,7 +26025,7 @@
 /obj/disposalpipe/segment/morgue{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Morgue";
 	opacity = 0;
@@ -27858,7 +27858,7 @@
 	name = "Artifact Lounge"
 	})
 "bkA" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_locked";
 	locked = 1;
 	name = "Restricted"
@@ -52159,7 +52159,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Meat Zone";
 	req_access = list(28)
 	},
@@ -60704,7 +60704,7 @@
 	},
 /area/station/hallway/secondary/exit)
 "cCT" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	opacity = 0
 	},
@@ -71665,7 +71665,7 @@
 /turf/simulated/floor/specialroom/freezer/blue,
 /area/station/medical/cdc)
 "ddW" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},
@@ -71915,7 +71915,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Storage"
 	},
 /obj/cable{
@@ -72957,7 +72957,7 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/solar/north)
 "dhd" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Morgue"
 	},

@@ -10962,7 +10962,7 @@
 	},
 /area/station/medical/research)
 "zT" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Genetics"
 	},
@@ -11114,7 +11114,7 @@
 /turf/simulated/floor,
 /area/station/hallway/primary/west)
 "Ai" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Toxin Storage"
 	},
 /obj/cable{
@@ -11450,7 +11450,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn/the_tuff_stuff,
 /area/station/science/lab)
 "AQ" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Medbay"
 	},
@@ -11559,7 +11559,7 @@
 /turf/simulated/floor/black,
 /area/station/medical/robotics)
 "AZ" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/access_spawn/robotics,
@@ -11848,7 +11848,7 @@
 /turf/simulated/floor/plating/random,
 /area/station/maintenance/east)
 "BC" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	name = "Pathology"
 	},
 /obj/access_spawn/medical,
@@ -13669,7 +13669,7 @@
 /turf/simulated/floor,
 /area/station/hallway/primary/north)
 "Fq" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4;
 	name = "Pathology"
 	},

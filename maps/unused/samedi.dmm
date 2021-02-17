@@ -12919,7 +12919,7 @@
 /turf/simulated/floor/plating,
 /area/station/hangar/arrivals)
 "aCt" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Crematorium";
@@ -26110,7 +26110,7 @@
 	icon_state = "fdoor0";
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical Booth"
 	},
@@ -26752,7 +26752,7 @@
 	icon_state = "fdoor0";
 	dir = 4
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Medical Booth"
 	},
@@ -27089,7 +27089,7 @@
 /area/station/medical/morgue)
 "bht" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue";
 	req_access = list(6);
 	req_access_txt = null
@@ -28332,7 +28332,7 @@
 	d1 = 4;
 	d2 = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Morgue";
@@ -29514,7 +29514,7 @@
 /area/station/hallway/primary/east)
 "bmz" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	icon_state = "research_closed";
 	name = "Pathology Research"
@@ -29960,7 +29960,7 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "bnC" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Pathology Research"
@@ -30571,7 +30571,7 @@
 /turf/simulated/floor/white,
 /area/station/medical/cdc)
 "boR" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Pathology Research"
@@ -30936,7 +30936,7 @@
 	})
 "bpL" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Genetic Research";
 	req_access_txt = "9"
 	},
@@ -31446,7 +31446,7 @@
 /turf/simulated/floor/grass,
 /area/station/medical/dome)
 "bqS" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Pathology Research"
@@ -37361,7 +37361,7 @@
 /area/station/science/artifact)
 "bEO" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	icon_state = "research_closed";
 	name = "Artifact Lab";
@@ -40713,7 +40713,7 @@
 /turf/simulated/floor,
 /area/station/science/bot_storage)
 "bLI" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	req_access = null;
@@ -42306,7 +42306,7 @@
 /turf/simulated/floor,
 /area/station/science/lobby)
 "bOL" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Toxin Lab Access";
@@ -42808,7 +42808,7 @@
 	d1 = 4;
 	d2 = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Toxin Lab";
@@ -42842,7 +42842,7 @@
 /turf/simulated/floor,
 /area/station/maintenance/southwest)
 "bPQ" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Toxin Lab Access";
@@ -43099,7 +43099,7 @@
 	},
 /area/research_outpost)
 "bQt" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Test Chamber Observation";
@@ -43169,7 +43169,7 @@
 /obj/cable{
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Test Chamber Observation";
@@ -43897,7 +43897,7 @@
 /turf/simulated/floor/engine,
 /area/research_outpost)
 "bRY" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access_txt = "7"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -45433,7 +45433,7 @@
 /area/station/turret_protected/Zeta)
 "bVm" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	icon_state = "research_closed";
 	name = "Chemistry Lab";
@@ -46332,7 +46332,7 @@
 	},
 /area/research_outpost)
 "bXk" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	req_access_txt = "7"
 	},
 /obj/machinery/door/firedoor/pyro,
@@ -46531,7 +46531,7 @@
 	},
 /area/research_outpost)
 "bXE" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Research Outpost Dorms";
@@ -46593,7 +46593,7 @@
 /turf/simulated/floor/wood,
 /area/research_outpost)
 "bXK" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Research Outpost Dorms";

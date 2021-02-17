@@ -24715,7 +24715,7 @@
 /turf/simulated/floor/blue,
 /area/station/medical/medbay)
 "isb" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry Department Access"
 	},
 /obj/access_spawn/research,
@@ -28524,7 +28524,7 @@
 	},
 /area/station/turret_protected/AIsat)
 "nuy" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Artifact Lab"
 	},
@@ -35520,7 +35520,7 @@
 	},
 /area/station/turret_protected/AIsat)
 "vcv" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Mixing Room"
 	},

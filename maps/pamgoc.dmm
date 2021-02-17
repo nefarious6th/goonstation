@@ -4573,7 +4573,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Teleporter Control Room";
 	req_access = null;
 	req_access_txt = null
@@ -12993,7 +12993,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Morgue";
 	req_access = null;
@@ -40173,7 +40173,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/east)
 "bxA" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Science Hangar";
 	req_access = null;
@@ -40184,7 +40184,7 @@
 /turf/simulated/floor/delivery,
 /area/station/hangar/science)
 "bxB" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Science Hangar";
 	req_access = null;
 	req_access_txt = null
@@ -40194,7 +40194,7 @@
 /turf/simulated/floor/shuttlebay,
 /area/station/hangar/science)
 "bxC" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Test Chamber Access";
 	req_access = null;
 	req_access_txt = null
@@ -41097,7 +41097,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/southeast)
 "bzp" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Chemistry Department Access";
 	req_access = null;
 	req_access_txt = null
@@ -41443,7 +41443,7 @@
 /obj/machinery/atmospherics/pipe/simple{
 	dir = 8
 	},
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Morgue";
 	req_access = null;
@@ -41635,7 +41635,7 @@
 /turf/simulated/floor/specialroom/cafeteria,
 /area/station/crew_quarters/barber_shop)
 "bAq" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Loading Dock";
 	req_access = null;
@@ -41651,7 +41651,7 @@
 /turf/simulated/floor/delivery/white,
 /area/station/science/chemistry)
 "bAr" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Morgue";
 	req_access = null;
@@ -41662,7 +41662,7 @@
 /turf/simulated/floor/sanitary/white,
 /area/station/medical/morgue)
 "bAs" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Morgue";
 	req_access = null;
@@ -42111,7 +42111,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/west)
 "bBe" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Artifact Lab";
 	req_access = null;
@@ -42132,7 +42132,7 @@
 /turf/simulated/floor/delivery,
 /area/station/science/artifact)
 "bBf" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Mixing Room";
 	req_access = null;
@@ -42148,7 +42148,7 @@
 /turf/simulated/floor/delivery,
 /area/station/science/lobby)
 "bBg" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Mixing Room";
 	req_access = null;
@@ -42164,7 +42164,7 @@
 /turf/simulated/floor/delivery,
 /area/station/science/lab)
 "bBh" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 8;
 	name = "Test Chamber Access";
 	req_access = null;

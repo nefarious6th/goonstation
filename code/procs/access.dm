@@ -641,12 +641,12 @@ proc/fetchAirlock(access,variant)
 						else return "/obj/machinery/door/airlock/security"
 				else if(chroma == "med")
 					switch(map_settings.airlock_style)
-						if("pyro") return "/obj/machinery/door/airlock/pyro/medical/alt"
+						if("pyro") return "/obj/machinery/door/airlock/pyro/research/alt"
 						if("gannets") return "/obj/machinery/door/airlock/gannets/medical"
 						else return "/obj/machinery/door/airlock/medical"
 				else if(chroma == "sci")
 					switch(map_settings.airlock_style)
-						if("pyro") return "/obj/machinery/door/airlock/pyro/medical/alt"
+						if("pyro") return "/obj/machinery/door/airlock/pyro/research/alt"
 						if("gannets") return "/obj/machinery/door/airlock/gannets/toxins"
 						else return "/obj/machinery/door/airlock/medical"
 				else if(chroma == "maint")
@@ -677,12 +677,12 @@ proc/fetchAirlock(access,variant)
 						else return "/obj/machinery/door/airlock/security"
 				else if(chroma == "med")
 					switch(map_settings.airlock_style)
-						if("pyro") return "/obj/machinery/door/airlock/pyro/medical"
+						if("pyro") return "/obj/machinery/door/airlock/pyro/research"
 						if("gannets") return "/obj/machinery/door/airlock/gannets/medical"
 						else return "/obj/machinery/door/airlock/medical"
 				else if(chroma == "sci")
 					switch(map_settings.airlock_style)
-						if("pyro") return "/obj/machinery/door/airlock/pyro/medical"
+						if("pyro") return "/obj/machinery/door/airlock/pyro/research"
 						if("gannets") return "/obj/machinery/door/airlock/gannets/chemistry"
 						else return "/obj/machinery/door/airlock/medical"
 				else if(chroma == "maint")

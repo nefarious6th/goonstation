@@ -539,7 +539,7 @@
 /turf/unsimulated/floor/carpet/purple/fancy/edge/east,
 /area/space)
 "bT" = (
-/obj/machinery/door/airlock/pyro/medical,
+/obj/machinery/door/airlock/pyro/research,
 /turf/unsimulated/floor/white/grime,
 /area/space)
 "bU" = (

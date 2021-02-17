@@ -13339,7 +13339,7 @@
 /turf/simulated/floor/black,
 /area/station/chapel/office)
 "aDj" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Crematorium";
@@ -14063,7 +14063,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/east)
 "aEL" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	icon_state = "research_closed";
 	name = "Crematorium";
@@ -14533,7 +14533,7 @@
 /turf/simulated/floor/grime,
 /area/station/hydroponics/bay)
 "aFH" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	name = "Primate Chamber"
 	},
@@ -15288,7 +15288,7 @@
 /turf/simulated/floor/specialroom/medbay,
 /area/station/medical/medbay/lobby)
 "aHo" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	id = "clone_begone";
 	name = "Cloning Lobby";
@@ -15659,7 +15659,7 @@
 /turf/simulated/floor/bluewhite/corner,
 /area/station/medical/medbay/cloner)
 "aIc" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Morgue";
@@ -16178,7 +16178,7 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/medical/medbay/surgery)
 "aJo" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	name = "Operating Theatre";
 	req_access_txt = "5"
@@ -16445,7 +16445,7 @@
 /turf/simulated/floor/black,
 /area/station/medical/medbay/treatment1)
 "aJN" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Treatment Room One"
 	},
@@ -17099,7 +17099,7 @@
 /turf/simulated/floor/specialroom/medbay,
 /area/station/medical/medbay/lobby)
 "aLi" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Operating Theatre";
 	req_access_txt = "5"
@@ -17499,7 +17499,7 @@
 	},
 /area/station/medical/medbay/surgery)
 "aLS" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	name = "Morgue";
 	req_access = list(6);
 	req_access_txt = null
@@ -17521,7 +17521,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/east)
 "aLU" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Robotics";
@@ -17889,7 +17889,7 @@
 /turf/simulated/floor/black,
 /area/station/medical/medbay/treatment2)
 "aMw" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Treatment Room One"
 	},
@@ -18328,7 +18328,7 @@
 	},
 /area/station/medical/medbay/surgery)
 "aNv" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Operating Theatre";
 	req_access_txt = "5"
@@ -18630,7 +18630,7 @@
 	},
 /area/station/medical/medbay)
 "aOg" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Operating Theatre";
 	req_access_txt = "5"
@@ -20285,7 +20285,7 @@
 /turf/simulated/floor/purple,
 /area/station/science/teleporter)
 "aRD" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	name = "Teleporter Lab";
 	req_access_txt = "8"
@@ -20753,7 +20753,7 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/central)
 "aSv" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 2;
 	name = "Medbay"
 	},
@@ -22432,7 +22432,7 @@
 /turf/simulated/floor/grime,
 /area/station/maintenance/southeast)
 "aVw" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Toxin Lab";
@@ -23211,7 +23211,7 @@
 /turf/simulated/floor/white/grime,
 /area/station/maintenance/south)
 "aXc" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Artifact Lab";
@@ -23688,7 +23688,7 @@
 /turf/simulated/floor/black,
 /area/station/science/lab)
 "aYf" = (
-/obj/machinery/door/airlock/pyro/medical{
+/obj/machinery/door/airlock/pyro/research{
 	dir = 4;
 	icon_state = "research_closed";
 	name = "Toxin Storage";
@@ -27092,7 +27092,7 @@
 /turf/simulated/floor/specialroom/bar,
 /area/station/crew_quarters/cafeteria)
 "lFR" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/caution/westeast,
@@ -27442,7 +27442,7 @@
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "pTI" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /turf/simulated/floor/plating,
 /area/research_outpost/indigo_rye)
 "pYu" = (
@@ -27559,7 +27559,7 @@
 /turf/simulated/floor/engine,
 /area/research_outpost/indigo_rye)
 "rpl" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /obj/cable{
@@ -27585,7 +27585,7 @@
 /turf/simulated/floor/darkblue,
 /area/station/hallway/primary/central)
 "sdI" = (
-/obj/machinery/door/airlock/pyro/medical/alt,
+/obj/machinery/door/airlock/pyro/research/alt,
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -27659,7 +27659,7 @@
 /turf/simulated/floor/caution/south,
 /area/research_outpost/indigo_rye)
 "uwA" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	icon_state = "research2_locked";
 	locked = 1
 	},
@@ -27866,7 +27866,7 @@
 /turf/simulated/floor/caution/east,
 /area/research_outpost/indigo_rye)
 "vZW" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/sanitary,
@@ -27959,7 +27959,7 @@
 /turf/simulated/floor/engine,
 /area/research_outpost/indigo_rye)
 "yig" = (
-/obj/machinery/door/airlock/pyro/medical/alt{
+/obj/machinery/door/airlock/pyro/research/alt{
 	dir = 4
 	},
 /turf/simulated/floor/blackwhite{
