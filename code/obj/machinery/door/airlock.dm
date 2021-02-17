@@ -373,21 +373,43 @@ Airlock index -> wire color are { 9, 4, 6, 7, 5, 8, 1, 2, 3 }.
 	welded_icon_state = "2_welded"
 	req_access = null
 
-/obj/machinery/door/airlock/pyro/medical
+/obj/machinery/door/airlock/pyro/research
 	icon_state = "research_closed"
 	icon_base = "research"
-	req_access = list(access_medical)
+	req_access = null
 
-/obj/machinery/door/airlock/pyro/medical/alt
+/obj/machinery/door/airlock/pyro/research/alt
 	icon_state = "research2_closed"
 	icon_base = "research2"
 	panel_icon_state = "2_panel_open"
 	welded_icon_state = "2_welded"
 	req_access = null
 
-/obj/machinery/door/airlock/pyro/medical/alt2
+/obj/machinery/door/airlock/pyro/research/alt2
+	icon_state = "research3_closed"
+	icon_base = "research3"
+	panel_icon_state = "2_panel_open"
+	welded_icon_state = "2_welded"
+	req_access = null
+
+
+/obj/machinery/door/airlock/pyro/medical
 	icon_state = "med_closed"
 	icon_base = "med"
+	panel_icon_state = "2_panel_open"
+	welded_icon_state = "2_welded"
+	req_access = null
+
+/obj/machinery/door/airlock/pyro/medical/alt2
+	icon_state = "med2_closed"
+	icon_base = "med2"
+	panel_icon_state = "2_panel_open"
+	welded_icon_state = "2_welded"
+	req_access = null
+
+/obj/machinery/door/airlock/pyro/medical/symbol
+	icon_state = "med3_closed"
+	icon_base = "med3"
 	panel_icon_state = "2_panel_open"
 	welded_icon_state = "2_welded"
 	req_access = null
@@ -395,6 +417,13 @@ Airlock index -> wire color are { 9, 4, 6, 7, 5, 8, 1, 2, 3 }.
 /obj/machinery/door/airlock/pyro/medical/morgue
 	icon_state = "morgue_closed"
 	icon_base = "morgue"
+	panel_icon_state = "2_panel_open"
+	welded_icon_state = "2_welded"
+	req_access = null
+
+/obj/machinery/door/airlock/pyro/medical/morgue/alt
+	icon_state = "morgue2_closed"
+	icon_base = "morgue2"
 	panel_icon_state = "2_panel_open"
 	welded_icon_state = "2_welded"
 	req_access = null
@@ -481,9 +510,19 @@ Airlock index -> wire color are { 9, 4, 6, 7, 5, 8, 1, 2, 3 }.
 	icon_base = "med_glass"
 	req_access = null
 
+/obj/machinery/door/airlock/pyro/glass/med2
+	icon_state = "med2_glass_closed"
+	icon_base = "med2_glass"
+	req_access = null
+
 /obj/machinery/door/airlock/pyro/glass/sci
 	icon_state = "sci_glass_closed"
 	icon_base = "sci_glass"
+	req_access = null
+
+/obj/machinery/door/airlock/pyro/glass/sci2
+	icon_state = "sci2_glass_closed"
+	icon_base = "sci2_glass"
 	req_access = null
 
 /obj/machinery/door/airlock/pyro/glass/toxins
