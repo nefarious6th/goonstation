@@ -101,7 +101,7 @@
 		<li><b>Add 5 <i>reinforced glass</i> sheets</b> to the windshield</li>
 		<li><b>Right-click</b> the pod and select the round icon with wires to <i>Customize</i> the parts on your pod; you can add parts by clicking the pod with a component, and swap
 		parts by clicking the blue text in the parts menu, then clicking the pod with the component you want to replace the old one with</li>
-		<li><b><i>Optionally,</i> print and add</b> a <i>Pod Paint Kit</i> to the pod to decorate the exterior in a number of styles</li></ul><hr>
+		<li><b><i>Optionally,</i> purchase from a merchant and add</b> a <i>Pod Paint Kit</i> to the pod to decorate the exterior in a number of styles</li></ul><hr>
 		<h4>FOOTNOTE</h4>
 		Additional information is available at:
 		<br>
