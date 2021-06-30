@@ -6294,7 +6294,9 @@
 /area/station/crew_quarters/fitness)
 "anO" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/fitness)
@@ -7763,7 +7765,8 @@
 "arC" = (
 /obj/machinery/door/airlock/pyro/maintenance{
 	dir = 4;
-	name = "Chapel Storage"
+	name = "Chapel Storage";
+	req_access = null
 	},
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
@@ -13987,7 +13990,9 @@
 /area/station/hallway/secondary/entry)
 "aFk" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/disposalpipe/segment,
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
@@ -14023,7 +14028,9 @@
 /area/station/storage/emergency2)
 "aFp" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
 /area/station/hallway/secondary/entry)
@@ -14452,7 +14459,9 @@
 /area/station/crew_quarters/garden)
 "aGv" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -20905,7 +20914,9 @@
 /area/station/crew_quarters/arcade/dungeon)
 "aWk" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -21220,7 +21231,9 @@
 /area/station/maintenance/northeast)
 "aWY" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
 /area/station/crew_quarters/locker)
@@ -21234,7 +21247,9 @@
 /area/station/crew_quarters/locker)
 "aXb" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -21740,7 +21755,9 @@
 /obj/disposalpipe/segment/food,
 /obj/disposalpipe/segment/mail/horizontal,
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /turf/simulated/floor/white,
 /area/station/crew_quarters/pool)
@@ -25491,7 +25508,9 @@
 /turf/space,
 /area/space)
 "bgH" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -26553,7 +26572,9 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/hallway/primary/east)
 "bjk" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -27952,7 +27973,9 @@
 /area/station/hallway/primary/west)
 "bmz" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -49679,7 +49702,9 @@
 /turf/simulated/wall/auto/reinforced/supernorn,
 /area/station/security/brig)
 "cdI" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -49714,7 +49739,9 @@
 	},
 /area/station/hallway/primary/east)
 "cdM" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -55716,7 +55743,8 @@
 	icon_state = "1-2"
 	},
 /obj/machinery/door/airlock/pyro/maintenance{
-	name = "Construction Area"
+	name = "Construction Area";
+	req_access = null
 	},
 /obj/access_spawn/research,
 /turf/simulated/floor/delivery,
@@ -59801,7 +59829,9 @@
 /area/station/science/bot_storage)
 "cAX" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -60046,7 +60076,9 @@
 /area/station/hallway/secondary/exit)
 "cBv" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/disposalpipe/segment,
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
@@ -63127,7 +63159,9 @@
 /area/station/mining/staff_room)
 "cIK" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/maint,
 /turf/simulated/floor/plating,
 /area/station/hallway/secondary/exit)
@@ -64245,7 +64279,9 @@
 /area/station/maintenance/south)
 "cLn" = (
 /obj/machinery/door/firedoor/pyro,
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -64772,7 +64808,9 @@
 	},
 /area/station/medical/medbay)
 "cME" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/machinery/door/firedoor/pyro,
 /obj/access_spawn/medical,
 /turf/simulated/floor/delivery,
@@ -66453,7 +66491,8 @@
 "cQl" = (
 /obj/machinery/door/firedoor/pyro,
 /obj/machinery/door/airlock/pyro/maintenance{
-	name = "Toxin Storage"
+	name = "Toxin Storage";
+	req_access = null
 	},
 /obj/machinery/door/firedoor/pyro,
 /obj/access_spawn/research,
@@ -68728,7 +68767,8 @@
 "cUY" = (
 /obj/machinery/door/airlock/pyro/maintenance{
 	dir = 4;
-	name = "Toxin Storage"
+	name = "Toxin Storage";
+	req_access = null
 	},
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
@@ -69135,7 +69175,9 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/access_spawn/cargo,
 /turf/simulated/floor/delivery,
 /area/station/quartermaster/office)
@@ -70556,7 +70598,8 @@
 	},
 /obj/machinery/door/airlock/pyro/medical{
 	dir = 4;
-	name = "Artifact Lab"
+	name = "Artifact Lab";
+	req_access = null
 	},
 /obj/machinery/door/firedoor/pyro{
 	dir = 4
@@ -74154,7 +74197,9 @@
 /turf/simulated/floor/plating,
 /area/station/maintenance/south)
 "dgw" = (
-/obj/machinery/door/airlock/pyro/maintenance,
+/obj/machinery/door/airlock/pyro/maintenance{
+	req_access = null
+	},
 /obj/cable{
 	d1 = 1;
 	d2 = 2;
@@ -79460,6 +79505,14 @@
 /obj/item/old_grenade/oxygen,
 /turf/simulated/floor/plating,
 /area/research_outpost)
+"shQ" = (
+/obj/machinery/door/airlock/pyro/maintenance{
+	dir = 4;
+	name = "Chapel Storage";
+	req_access = null
+	},
+/turf/space,
+/area/space)
 "snI" = (
 /obj/stool/chair{
 	dir = 1
@@ -97454,7 +97507,7 @@ aaa
 aaa
 aaa
 aaa
-aaa
+shQ
 aaa
 aaa
 aaa
